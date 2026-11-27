@@ -1,0 +1,13 @@
+# 安装包不进 Git —— 仅通过 GitHub Releases 分发
+*.exe
+*.msi
+*.zip
+*.7z
+*.dmg
+*.AppImage
+*.deb
+*.rpm
+
+# 本地临时
+.DS_Store
+Thumbs.db
